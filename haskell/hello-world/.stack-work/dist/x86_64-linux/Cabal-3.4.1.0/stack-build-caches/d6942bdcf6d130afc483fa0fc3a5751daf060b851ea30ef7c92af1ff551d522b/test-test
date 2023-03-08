@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /home/samedov/ELTE/FunctionalLanguages/haskell/hello-world/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/Paths_hello_world.hs
+: hash: 38d33144e7bf73ae9f4e92fa2a59eb3703d8004c592a9d529060a57672c06c1f
+? /home/samedov/ELTE/FunctionalLanguages/haskell/hello-world/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h
+: hash: c9cf535b38a4a418b280ff7266498afcb4027320613589c8b83a708fabe2bffb
+/home/samedov/ELTE/FunctionalLanguages/haskell/hello-world/hello-world.cabal:
+  hash: be2dfc653421b6c2f6a6c71924d320ed780dc2c5180bfddc0c728da3d2f1351f
+/home/samedov/ELTE/FunctionalLanguages/haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+/home/samedov/ELTE/FunctionalLanguages/haskell/hello-world/test/Tests.hs:
+  hash: 6aa7479ae49b7251b54ea5e75f0cc8f20c8bb4527873a20aefa67cfbb78184d3
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

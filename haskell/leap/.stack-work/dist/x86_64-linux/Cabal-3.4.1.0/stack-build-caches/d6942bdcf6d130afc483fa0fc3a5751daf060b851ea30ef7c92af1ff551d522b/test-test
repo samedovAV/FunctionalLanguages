@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+/home/samedov/ELTE/FunctionalLanguages/haskell/leap/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/Paths_leap.hs:
+  hash: 66b201a385059a530e1ba02a92f81ccc2989648ea77ee11bc31aa6618fd70aaf
+? /home/samedov/ELTE/FunctionalLanguages/haskell/leap/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h
+: hash: 6d1220e37fb9b44b55c2fb461e9017a3ca738ff2a3a47a0c666304f3d2135133
+/home/samedov/ELTE/FunctionalLanguages/haskell/leap/leap.cabal:
+  hash: 944017c60ad5b7ef23c55d072dd6b2057776efb4a119d4bcc3e6baef4cd67dd9
+/home/samedov/ELTE/FunctionalLanguages/haskell/leap/package.yaml:
+  hash: 741adae21e7fab15e96ec98d318f3ec9cbc33dc86f419cd56cd829d6c64a1c54
+/home/samedov/ELTE/FunctionalLanguages/haskell/leap/test/Tests.hs:
+  hash: 7f9ef91a93abb48e59dc9c830e0685ab774cc738d78a1a9db4caa41beecbe1b4
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /home/samedov/ELTE/FunctionalLanguages/haskell/space-age/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/Paths_space_age.hs
+: hash: 7f399f3805a8f75f1fc7523c2e9f69deecadee91d1c309290a611f26611e7092
+? /home/samedov/ELTE/FunctionalLanguages/haskell/space-age/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/cabal_macros.h
+: hash: 638eeef52ece8a666ab88312e36b6a204bced88c51311c0f7b3586d822f36df9
+/home/samedov/ELTE/FunctionalLanguages/haskell/space-age/package.yaml:
+  hash: d8dbdf4247d1f13fc1acdd3b68d702ceb46403e97b81ac10decfe16dc11cdfee
+/home/samedov/ELTE/FunctionalLanguages/haskell/space-age/space-age.cabal:
+  hash: 1fd62cd0b9bd48d980255c2188d0c25b2859dbe7d70e1db376aaaf51ae821234
+/home/samedov/ELTE/FunctionalLanguages/haskell/space-age/src/SpaceAge.hs:
+  hash: 8ac9a3711cc84b21eae55ba48e7aedfe35fda92fcf73add2be1390d47dc3a014
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

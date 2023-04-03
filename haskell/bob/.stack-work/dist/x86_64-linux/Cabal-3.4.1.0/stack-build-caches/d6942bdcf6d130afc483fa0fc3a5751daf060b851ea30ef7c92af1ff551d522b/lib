@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+/home/samedov/ELTE/FunctionalLanguages/haskell/bob/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/Paths_bob.hs:
+  hash: e30be7a180c09e4c94c8f382682af04376d1337472051606f8a45d6be4c23746
+/home/samedov/ELTE/FunctionalLanguages/haskell/bob/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 30cd0d701bbfbcde48d07fbc6799ddbb02dcf35427635343581b76ce1b0dc3a6
+/home/samedov/ELTE/FunctionalLanguages/haskell/bob/bob.cabal:
+  hash: d625947dfb60ec3faf77f51d935a43db04eb8a86602c84879d3a09c53b6b6bc3
+/home/samedov/ELTE/FunctionalLanguages/haskell/bob/package.yaml:
+  hash: fdbe34943408486a1bea988085ad4b25d582690cac37d8a14acf12386796af4d
+/home/samedov/ELTE/FunctionalLanguages/haskell/bob/src/Bob.hs:
+  hash: ef580aa4d1ebd07a140e14e1b9a6fe28463b98c81d6ea16fe89c3f0fa14c1ffe
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

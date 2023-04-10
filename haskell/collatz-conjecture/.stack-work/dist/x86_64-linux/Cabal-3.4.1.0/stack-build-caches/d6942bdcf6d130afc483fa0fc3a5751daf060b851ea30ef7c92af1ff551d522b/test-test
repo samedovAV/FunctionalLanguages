@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /home/samedov/ELTE/FunctionalLanguages/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/Paths_collatz_conjecture.hs
+: hash: e49135f0a787660708260ed17f22e42dd2bc9abfcf3953f53779d2a4ad80bfd1
+? /home/samedov/ELTE/FunctionalLanguages/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h
+: hash: e1d5ba1457a7f2dc8f0b957d447a1fc41a55793421e6689d12d67a3053fa6bd2
+/home/samedov/ELTE/FunctionalLanguages/haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: 2ec76c888b889e63c596c43efebd9e1fc6cf5ed40f70cccd597b8820f8ff0089
+/home/samedov/ELTE/FunctionalLanguages/haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/home/samedov/ELTE/FunctionalLanguages/haskell/collatz-conjecture/test/Tests.hs:
+  hash: 55c06a1f956dc033730864f2a16771b554e2876a6fb0658c99d0d8aa6ac44966
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

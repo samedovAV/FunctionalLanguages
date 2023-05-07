@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/nucleotide-count/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_nucleotide_count.hs
+: hash: ef0b8ab500671644132e18566e28f71c71a260c32f9094e0791bf198bc4f6252
+? /home/samedov/ELTE/FunctionalLanguages/haskell/nucleotide-count/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: 3834ef26e57cdc772885c400a2c5fc1b2120adb403d2aadbc0792f8393f0586d
+/home/samedov/ELTE/FunctionalLanguages/haskell/nucleotide-count/nucleotide-count.cabal:
+  hash: 73e3c48015e70549359425d519fa619310f9d23395c8274bb461e2963a6fb92c
+/home/samedov/ELTE/FunctionalLanguages/haskell/nucleotide-count/package.yaml:
+  hash: a9addd79532906f9ac795239d06df65176d38dadf35821e65efed3b7d93b19da
+/home/samedov/ELTE/FunctionalLanguages/haskell/nucleotide-count/src/DNA.hs:
+  hash: 58f8226e34cae5fea7b346dfdacb1db0e1df4834231f57eec866e1c498242d14
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

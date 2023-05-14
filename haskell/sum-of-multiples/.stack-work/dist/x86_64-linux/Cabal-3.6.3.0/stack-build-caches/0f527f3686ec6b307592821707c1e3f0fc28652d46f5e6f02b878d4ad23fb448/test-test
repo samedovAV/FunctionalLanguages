@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/sum-of-multiples/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_sum_of_multiples.hs
+: hash: ad4b2d82141d5436456afae5352623f99a0b645441426a993b78cdd319cfa98a
+? /home/samedov/ELTE/FunctionalLanguages/haskell/sum-of-multiples/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: d4e57f5f302291b57ec24d985c7cbe8c51753dd4476a2615d8c69815b0fd77df
+/home/samedov/ELTE/FunctionalLanguages/haskell/sum-of-multiples/package.yaml:
+  hash: b0245edaf4cdf6c00e91390f508defb05ee30791fa9027306d8f75fd057f58c8
+/home/samedov/ELTE/FunctionalLanguages/haskell/sum-of-multiples/sum-of-multiples.cabal:
+  hash: 60ea96cc2bea982a74506180acf2ec29aa37c2cfc48a1ff28d8afc6a2645f7e0
+/home/samedov/ELTE/FunctionalLanguages/haskell/sum-of-multiples/test/Tests.hs:
+  hash: 81f3323a681af4ad8d0606460584314dc30a06ba3a19af8e15836dc10c29583c
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

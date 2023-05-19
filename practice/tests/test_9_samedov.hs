@@ -1,4 +1,6 @@
 replacePred :: (a -> Bool) -> a -> [a] -> [a]
+-- replacePred pred b xs = [ if pred x then b else x | x <- xs]
+-- replacePred pred b = map (\x -> if pred x then b else x)
 replacePred _ _ [] = []
 replacePred p b (x:xs)
     | p x       = b : replacePred p b xs

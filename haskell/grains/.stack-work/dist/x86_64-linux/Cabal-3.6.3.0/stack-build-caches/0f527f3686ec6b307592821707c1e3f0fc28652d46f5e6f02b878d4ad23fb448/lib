@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/samedov/ELTE/FunctionalLanguages/haskell/grains/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_grains.hs:
+  hash: 03572a65ca8c9f29deb252f7fd66d3dd5fc182d74510d2fa3839fa667961d731
+/home/samedov/ELTE/FunctionalLanguages/haskell/grains/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: a1a0429509b03a3ee798e40a192997b6bc81ef25041d53a0a508d0d113522d0f
+/home/samedov/ELTE/FunctionalLanguages/haskell/grains/grains.cabal:
+  hash: a558c0419ce0046049b3476658fb4949d6255c4d80d3346be06f3fe9ccbfe671
+/home/samedov/ELTE/FunctionalLanguages/haskell/grains/package.yaml:
+  hash: 54fb9dc6a6d17fad2e098f0f1c0958a01eb19217110896d17c6fe87d478c027e
+/home/samedov/ELTE/FunctionalLanguages/haskell/grains/src/Grains.hs:
+  hash: 0bbdb72118aff93a78ba3efd61a5ad356e64165f8669fec13bdc4217e05466b6
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

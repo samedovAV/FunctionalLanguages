@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/strain/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_strain.hs
+: hash: 874469244883f80c9707f2786eca3f92d5a53bbf6af7332839c6fd39d0eda9e4
+? /home/samedov/ELTE/FunctionalLanguages/haskell/strain/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: 667410876ada66d3e7a2daa85942e07fb171f5840b30956ba37ff38869c8b2f7
+/home/samedov/ELTE/FunctionalLanguages/haskell/strain/package.yaml:
+  hash: bfdf207974cf9b3822791e762b904f0a95377d271a38d2b56d5a4b9375c60655
+/home/samedov/ELTE/FunctionalLanguages/haskell/strain/strain.cabal:
+  hash: bd2c44e62de928e49d436da8d254d6474f672aed53a0c27a2e13bd43701e6e43
+/home/samedov/ELTE/FunctionalLanguages/haskell/strain/test/Tests.hs:
+  hash: 32807cec2eaab0fe68bace13501e28b6c4141d456cf0945a559356dcb167b28e
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

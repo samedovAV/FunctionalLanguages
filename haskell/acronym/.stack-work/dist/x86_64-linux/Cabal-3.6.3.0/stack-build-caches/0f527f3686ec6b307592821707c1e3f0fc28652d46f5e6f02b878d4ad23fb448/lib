@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/acronym/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_acronym.hs
+: hash: 45b4278c9ef40a1d8abed9d8e869e9abedc4e7555c9350acaeccb655813a88da
+/home/samedov/ELTE/FunctionalLanguages/haskell/acronym/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 691be8338c2c34b0368c412b707e22f1ff25584a2a1a98c5707466b9b8b6d8c7
+/home/samedov/ELTE/FunctionalLanguages/haskell/acronym/acronym.cabal:
+  hash: eb986d82a9a709bdee276cb04b7d8f7b05df0b27e260d694fd14296681f5b7f8
+/home/samedov/ELTE/FunctionalLanguages/haskell/acronym/package.yaml:
+  hash: a622efb5cfb142291548aab57e4a5a2b2a40c429706268897b1d63cbc9c686d0
+/home/samedov/ELTE/FunctionalLanguages/haskell/acronym/src/Acronym.hs:
+  hash: 2245c211e89e2275efa18974e6c3ed7115408a4a1ddc96b054a9665629ea2e24
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

@@ -164,9 +164,9 @@ indicesOfEmpties lists = go lists 1
 indicesOfEmptiesTests :: [Bool]
 indicesOfEmptiesTests = 
   [ 
-    --indicesOfEmpties [] == [],
-    --indicesOfEmpties [[]] == [1],
-    --indicesOfEmpties [[],[]] == [1,2],
+    indicesOfEmpties [] == [],
+    indicesOfEmpties [[]] == [1],
+    indicesOfEmpties [[],[]] == [1,2],
     indicesOfEmpties [[],[1..10], [], []] == [1,3,4],
     indicesOfEmpties [[],[1..], [], []] == [1,3,4],
     indicesOfEmpties [[],[1..], [], [], [2,3], [212], []] == [1,3,4,7],

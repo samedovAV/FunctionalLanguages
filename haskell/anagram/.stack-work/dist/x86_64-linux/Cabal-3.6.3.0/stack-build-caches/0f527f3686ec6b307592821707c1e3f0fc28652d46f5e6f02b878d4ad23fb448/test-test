@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/anagram/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_anagram.hs
+: hash: 20eead02e68ccd47e357e6df7c0ece112d25efac27ecc0c0ba3987fbe688ac15
+? /home/samedov/ELTE/FunctionalLanguages/haskell/anagram/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: d03357d7ff2099f752f5867b68fecdc6933a086025c8221263eb325f38c25add
+/home/samedov/ELTE/FunctionalLanguages/haskell/anagram/anagram.cabal:
+  hash: e30b0a897d3299f83f03775e3c7e34dc04f8d73cb6853f6281c41294d3959419
+/home/samedov/ELTE/FunctionalLanguages/haskell/anagram/package.yaml:
+  hash: 134502102f7727a6ac5eafc1bfb99ae3a18ecbde470198c9cdc80fecbe98fec7
+/home/samedov/ELTE/FunctionalLanguages/haskell/anagram/test/Tests.hs:
+  hash: c17a325f427cca14f60ffbab63e90ba86e0a48011efc6cb82689c142950d3962
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

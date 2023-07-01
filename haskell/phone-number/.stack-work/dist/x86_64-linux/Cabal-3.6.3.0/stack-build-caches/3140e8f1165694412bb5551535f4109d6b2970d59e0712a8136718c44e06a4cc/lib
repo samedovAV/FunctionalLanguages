@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/Coding/FunctionalLanguages/haskell/phone-number/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_phone_number.hs
+: hash: 65ebc6593030354c7c11ff1d6a013df75c7a2037473f6d94035adea0bd7ad079
+? /home/samedov/Coding/FunctionalLanguages/haskell/phone-number/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: 4cbe60da42d6094f17d980694dd304a9b06120562e8d84e33aa444abf1d620fb
+/home/samedov/Coding/FunctionalLanguages/haskell/phone-number/package.yaml:
+  hash: 5f4436c46d9a0eb86304b8b2e158c5af2836f05424a60c32f7082edfb51924fa
+/home/samedov/Coding/FunctionalLanguages/haskell/phone-number/phone-number.cabal:
+  hash: 6e2ddb90716bb463e2ebf4d3959fadd7e454daec28bf95d907ec4e1ce7ff16f2
+/home/samedov/Coding/FunctionalLanguages/haskell/phone-number/src/Phone.hs:
+  hash: 7388edc8164ef5edec9de54c676f59cf9d391156fecc5dcfc0d757ff8f02b780
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

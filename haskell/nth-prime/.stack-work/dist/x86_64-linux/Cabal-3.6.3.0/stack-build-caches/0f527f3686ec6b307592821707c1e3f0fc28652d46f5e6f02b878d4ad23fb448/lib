@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/nth-prime/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_nth_prime.hs
+: hash: 5ec431abac2e31bcf4a93069c4d098a500567a5e3268d348054880bf48931d15
+? /home/samedov/ELTE/FunctionalLanguages/haskell/nth-prime/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: c018620e52826c13586ad0eeee9da7b7748957d3ee37fe30e6879754e1c79cfb
+/home/samedov/ELTE/FunctionalLanguages/haskell/nth-prime/nth-prime.cabal:
+  hash: c8c89aa0721dc0758a6090fb099b2f8c9b8245c95cd7e98d5827936e547d196c
+/home/samedov/ELTE/FunctionalLanguages/haskell/nth-prime/package.yaml:
+  hash: f71e66482b63e7b02da18352f3205af099bf5f586fef98ebc638800357780760
+/home/samedov/ELTE/FunctionalLanguages/haskell/nth-prime/src/Prime.hs:
+  hash: ce74b46243b55ed51d9101aac45a0a960cc36d37ae46cb7056693313783cbfdd
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

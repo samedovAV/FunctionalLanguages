@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/samedov/ELTE/FunctionalLanguages/haskell/luhn/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_luhn.hs:
+  hash: e3b995963748cf2d77a04ee2c0cb89254acd551d4b4152970a0d00686c413970
+/home/samedov/ELTE/FunctionalLanguages/haskell/luhn/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 3ceba944663b28942cd40f9f00fd9359cf75904e47949bff9049d16b400c1cd3
+/home/samedov/ELTE/FunctionalLanguages/haskell/luhn/luhn.cabal:
+  hash: 114b5d95ba6494f86f9a39e1a4d190c4aa596371173e2b3e27bf2ef75ed7864c
+/home/samedov/ELTE/FunctionalLanguages/haskell/luhn/package.yaml:
+  hash: 27d882b43e86024813dd5f129d5b684114604885a57e6f38e14ccf9a1113b053
+/home/samedov/ELTE/FunctionalLanguages/haskell/luhn/src/Luhn.hs:
+  hash: 9a0395755d371d223053143f525b9f811c3a67aae620bfbfcc5916e9bb1bac53
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

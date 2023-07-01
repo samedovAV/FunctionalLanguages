@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/minesweeper/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_minesweeper.hs
+: hash: 8aa38442d4fd95e66b6098a4287088b79eb96547c9bfeafa60aea8eddc53492f
+? /home/samedov/ELTE/FunctionalLanguages/haskell/minesweeper/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: e0166fed350c60253897196a0625a418b6c0c8fb5f93b88be5b026e1d850d2fe
+/home/samedov/ELTE/FunctionalLanguages/haskell/minesweeper/minesweeper.cabal:
+  hash: 56e7d1e79467d474abb389687c03feaabddebded885eaba9e91fb41a115e8acf
+/home/samedov/ELTE/FunctionalLanguages/haskell/minesweeper/package.yaml:
+  hash: a6b2790931acac64c04183ac95a0a82ca8cdb8cf06292e4ba84ede0e6ae1154b
+/home/samedov/ELTE/FunctionalLanguages/haskell/minesweeper/test/Tests.hs:
+  hash: c53cb3ef76108d38fb986f128002ab44e2c39a1642a3e96236598da4757199b8
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

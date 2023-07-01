@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/ELTE/FunctionalLanguages/haskell/perfect-numbers/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_perfect_numbers.hs
+: hash: d3d76117ce91698e32ef158eef00eac59bc8beb68ecfd4ed3028c1bd5e3b7afa
+? /home/samedov/ELTE/FunctionalLanguages/haskell/perfect-numbers/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: d1bc3847f97a5bb5fba55f2c0303c18e50fe6d06c0e338d95b107e1df1378a49
+/home/samedov/ELTE/FunctionalLanguages/haskell/perfect-numbers/package.yaml:
+  hash: b4438eab95d45037ef2736efb164a2ec9fb02ba8a79bc5a58a1171b6b4acc486
+/home/samedov/ELTE/FunctionalLanguages/haskell/perfect-numbers/perfect-numbers.cabal:
+  hash: 54346e0aeb9e154022fea15fd676f5e0db4c1d3d07561f16b91cf1094d4c2491
+/home/samedov/ELTE/FunctionalLanguages/haskell/perfect-numbers/test/Tests.hs:
+  hash: 2b49779c2f4b8a0da8fbd0a1d88083d098ecc49da46289ca5108168cb3b65a44
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

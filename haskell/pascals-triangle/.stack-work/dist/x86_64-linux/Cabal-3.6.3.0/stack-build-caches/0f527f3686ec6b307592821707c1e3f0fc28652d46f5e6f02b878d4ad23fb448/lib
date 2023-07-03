@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/Coding/FunctionalLanguages/haskell/pascals-triangle/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_pascals_triangle.hs
+: hash: d359bb3e72b576f205e017708cb13a73700b4c485f46aea54113e39030aaf994
+? /home/samedov/Coding/FunctionalLanguages/haskell/pascals-triangle/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: fa36164ce5a5338d7b70c51a099130f65e94e7661d3a3e88c43bb1201de095c5
+/home/samedov/Coding/FunctionalLanguages/haskell/pascals-triangle/package.yaml:
+  hash: 26501f0cc8f58637d57b7a84bff2b44f751c90c6d1aaa2b15afcd7523c6f1774
+/home/samedov/Coding/FunctionalLanguages/haskell/pascals-triangle/pascals-triangle.cabal:
+  hash: 5dc157ef6e45d3211abfd5da2bedd6462065dc6dbe291296bc63ac95d74e50f3
+/home/samedov/Coding/FunctionalLanguages/haskell/pascals-triangle/src/Triangle.hs:
+  hash: 7a1f23bcd23cfbe6b72a19ae68e1528cf6c691ad583b0722a20843bcd6ce1ed0
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

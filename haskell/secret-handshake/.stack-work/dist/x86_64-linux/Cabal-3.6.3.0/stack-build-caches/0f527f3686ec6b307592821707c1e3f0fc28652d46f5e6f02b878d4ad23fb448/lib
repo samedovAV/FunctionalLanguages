@@ -1,0 +1,14 @@
+/home/samedov/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/samedov/Coding/FunctionalLanguages/haskell/secret-handshake/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_secret_handshake.hs
+: hash: a2387ffee6c1616d79c72628e5ed664d82c62778b4aaf7c63081ebdaafc56739
+? /home/samedov/Coding/FunctionalLanguages/haskell/secret-handshake/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: 8b2f06ed95a58f55fa4251b7a232506a8ba433c1a7127b0cd4cbf2b88b93f164
+/home/samedov/Coding/FunctionalLanguages/haskell/secret-handshake/package.yaml:
+  hash: 5cdc888731e0dd89d56a8ac6a8c18b4a2cd8a9ddf238884046244093a9915f17
+/home/samedov/Coding/FunctionalLanguages/haskell/secret-handshake/secret-handshake.cabal:
+  hash: 5cf3dd0ff8c10a64d155c3b5927d353e6190bb0a1ff135f4bffe51542b473d86
+/home/samedov/Coding/FunctionalLanguages/haskell/secret-handshake/src/SecretHandshake.hs:
+  hash: 2eba069b837c92199cd26c84f25bced5a0ca55478650e9d5b68cb367972ba39e
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
